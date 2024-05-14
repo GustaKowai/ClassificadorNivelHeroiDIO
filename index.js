@@ -1,5 +1,5 @@
 let nomeHeroi = "Nome do heroi";
-let xpHeroi = "10000";
+let xpHeroi = 3000;
 let nivel;
 
 if (xpHeroi <= 1000 ){
